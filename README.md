@@ -10,8 +10,7 @@
 | Student name | FU Xiaohe |
 | Student ID | 25048943G |
 | Team name / group number | 404_found |
-| Team repo URL | 
-https://github.com/Qian9921/AAE5303_Group/blob/95ca7af38e190f2f73f1137ad3e670f67473d253/GROUP_INFO_404_FOUND.md |
+| Team repo URL | https://github.com/Qian9921/AAE5303_Group/blob/95ca7af38e190f2f73f1137ad3e670f67473d253/GROUP_INFO_404_FOUND.md |
 | My role in the team | 3D reconstruction pipeline implementation |
 | My primary module | 3D Gaussian Splatting reconstruction |
 | Main dataset / scene used | AMtown02 (MARS-LVIG-based UAV aerial sequence) |
