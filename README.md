@@ -340,7 +340,7 @@ I declare that AI tools (Cursor, ChatGPT-4, GitHub Copilot) were used in the fol
 
 ---
 
-## 14. Appendix (optional)
+## 14. Appendix 
 
 **Key paths used in this project (for reproducibility):**
 
