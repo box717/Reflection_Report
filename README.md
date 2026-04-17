@@ -1,7 +1,3 @@
-# Reflection_Report
-
-以下是基于您提供的作业模板，为您撰写的完整定性指标报告。报告采用Markdown格式，您可以直接复制到您的GitHub仓库中，或根据需要转换为Word文档。
-
 ---
 
 # AAE5303 Individual Report on Six Qualitative Indicators
