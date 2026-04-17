@@ -134,10 +134,10 @@ I encountered three major technical challenges and needed to use AI (Cursor, Cha
 
 ### Evidence
 
-- **Prompt snippet 1:** "I'm getting `offset -654376896 out of range` when using `rosbags` to read compressed images from a ROS1 bag. What could cause this?"
-- **Refined prompt:** "Given that `rosbags` seems to have a bug for this specific bag, what ROS-native tool can extract compressed images reliably?"
-- **Prompt snippet 2:** "COLMAP mapper says 'No good initial image pair found' on an aerial image sequence. How can I force initialization?"
-- **Prompt snippet 3:** "OpenSplat gets 'Killed' after running for a few minutes. I'm on CPU with 7.5GB memory. What parameters should I change?"
+- **snippet 1:** "I'm getting `offset -654376896 out of range` when using `rosbags` to read compressed images from a ROS1 bag. What could cause this?"
+- **Refined snippet:** "Given that `rosbags` seems to have a bug for this specific bag, what ROS-native tool can extract compressed images reliably?"
+- **snippet 2:** "COLMAP mapper says 'No good initial image pair found' on an aerial image sequence. How can I force initialization?"
+- **snippet 3:** "OpenSplat gets 'Killed' after running for a few minutes. I'm on CPU with 7.5GB memory. What parameters should I change?"
 
 ### What this shows
 
