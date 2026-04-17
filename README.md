@@ -1,7 +1,6 @@
----
-
 # AAE5303 Individual Report on Six Qualitative Indicators
 
+---
 ## 1. Metadata
 
 | Item | Details |
