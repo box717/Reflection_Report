@@ -1,7 +1,5 @@
 # AAE5303 Robust Control Technology - Reflective Essay
 
----
-
 ## 1. AI Usage Experience
 
 Throughout this project, I used AI tools (mainly ChatGPT-4 and Cursor) as my primary coding and debugging assistant. My goal was to build a complete 3D Gaussian Splatting reconstruction pipeline from an ROS bag file containing UAV aerial imagery. The pipeline involved extracting compressed images from a 16.5 GB ROS bag, running COLMAP sparse reconstruction, and training an OpenSplat model on CPU.
@@ -89,5 +87,3 @@ Key evidence of my work includes:
 - **Commands log:** All commands were saved in a text file `commands_history.txt`.
 
 *All evidence is available in the team repository under the path `3dgs_module/colmap_test/` and in the shared drive.*
-
----
