@@ -76,7 +76,7 @@ If I were to repeat this project, I would change several things:
 
 Most importantly, I reflected on my reliance on AI. While AI helped me overcome many technical hurdles, it also lulled me into skipping some verification steps (e.g., checking the bag file’s ROS version before extraction). I will balance AI assistance with more systematic checks in the future.
 
-## 7. Evidence (Optional)
+## 7. Evidence
 
 Key evidence of my work includes:
 
